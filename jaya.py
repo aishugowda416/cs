@@ -1,0 +1,1 @@
+print("helo welcome to computer scince dept")
